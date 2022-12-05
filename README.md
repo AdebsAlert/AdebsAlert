@@ -56,7 +56,8 @@ Here are some ideas to get you started:
   
   ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p align="left">
+  <a href="https://www.twitter.com/adebsalert"><img src="https://img.shields.io/badge/-@adebsalert-0077B5?style=flat&logo=Twitter&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/adebsalert"><img src="https://img.shields.io/badge/-Adebayo%20Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:adebsalert@gmail.com"><img src="https://img.shields.io/badge/-adebsalert@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/adebsalert/"><img src="https://img.shields.io/badge/-@adebsalert-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
